@@ -27,18 +27,30 @@ O script criará um novo diretório com o nome do projeto contendo a estrutura b
 
 project_name/
 │
+
 ├── src/
+
 │ └── main/
+
 │ ├── java/
+
 │ │ └── com/
+
 │ │ └── example/
+
 │ │ └── project_name/
+
 │ │ ├── ProjectNameApplication.java
+
 │ │ └── controller/
+
 │ │ └── HelloController.java
+
 │ │
 │ └── resources/
+
 │ └── application.properties
+
 │
 └── pom.xml
 
